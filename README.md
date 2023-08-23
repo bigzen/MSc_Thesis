@@ -1,5 +1,5 @@
 # MSc_Thesis
-This is my contribution towards the MSc thesis-
+This is my contribution towards the MSc thesis-\\
 In this project aims to generate head motion and facial expression 
 ## Head Motion
 the architecture for head motion model is -
