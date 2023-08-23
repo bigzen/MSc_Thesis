@@ -12,7 +12,8 @@ results-
     <a align="center" target="_blank">
     <img width="100%" src="convfx.png"></a>
 </p>
-## facial expression
+
+## Facial Expression
 the architecture for facial expression model is -
 <p>
     <a align="center" target="_blank">
