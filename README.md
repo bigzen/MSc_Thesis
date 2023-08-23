@@ -4,13 +4,13 @@
 </div>
 
 
-This is my contribution towards the MSc thesis-\\
+This is my contribution towards the MSc thesis-<br>
 In this project aims to generate head motion and facial expression 
 ## Head Motion
 the architecture for head motion model is -
 <p>
     <a align="center" target="_blank">
-    <img width="100%" src="head.png" style="transform: rotate(90deg);"></a>
+    <img width="100%" src="head.png"></a>
 </p>
 results-
 <p>
