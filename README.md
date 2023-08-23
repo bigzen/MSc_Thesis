@@ -22,7 +22,7 @@ results-
 the architecture for facial expression model is -
 <p>
     <a align="center" target="_blank">
-    <img width="100%" src="body_modelt.png"></a>
+    <img width="100%" src="body.png"></a>
 </p>
 results-
 <p>
