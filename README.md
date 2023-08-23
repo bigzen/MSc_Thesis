@@ -1,11 +1,16 @@
-# MSc_Thesis
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="BG_logo.png" alt="Logo" width="5%">
+  <h1 style="text-align: right;">MSc Thesis</h1>
+</div>
+
+
 This is my contribution towards the MSc thesis-\\
 In this project aims to generate head motion and facial expression 
 ## Head Motion
 the architecture for head motion model is -
 <p>
     <a align="center" target="_blank">
-    <img width="100%" src="head_modelit.png"></a>
+    <img width="100%" src="head.png" style="transform: rotate(90deg);"></a>
 </p>
 results-
 <p>
@@ -17,7 +22,7 @@ results-
 the architecture for facial expression model is -
 <p>
     <a align="center" target="_blank">
-    <img width="100%" src="body_modelit.png"></a>
+    <img width="100%" src="body_modelt.png"></a>
 </p>
 results-
 <p>
