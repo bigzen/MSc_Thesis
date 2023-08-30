@@ -29,3 +29,6 @@ results-
     <a align="center" target="_blank">
     <img width="100%" src="Ses01F_impro01_M000.gif"></a>
 </p>
+
+## Execution
+The executable parts are present in the notebook files and the content are self explanatory
